@@ -1,6 +1,8 @@
 # Color Magic
 ### Shawn Lamb - Project 1(P1)
-Description
+
+####Start and End Date: April 1, 2022 - April 15, 2022
+###Description
 
 Color Magic is a pseudo e-commerce app for the purchase of Colored
 Pencils with various features for users and administrators.
